@@ -2,7 +2,7 @@
 
 This project focuses on detecting vehicles and estimating their speeds in traffic videos using deep learning techniques. By leveraging the YOLOv5 algorithm and tools such as the CARLA simulator, both real and simulated scenarios are used to evaluate the performance of the system.
 
-![Project Demo](./images/demo.png)
+Project Demo: https://youtu.be/w93ABvNU3iA
 
 ## Project Overview
 
