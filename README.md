@@ -81,7 +81,3 @@ Contributions are welcome. If you wish to collaborate, please fork the repositor
 ## Contact
 
 For any inquiries or suggestions, you can reach me at: ismaelaguileracevera8@gmail.com
-
----
-
-This README provides a comprehensive overview of the project, including installation instructions, usage details, and explanations of the methodologies used. You can further customize it with more specific information or images as needed.
